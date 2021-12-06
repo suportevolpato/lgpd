@@ -26,3 +26,21 @@ Uma empresa pode ser considerada controladora quando toma as decisões em relaç
 É a empresa que apenas irá realizar o processamento de dados de acordo com as ordens do controlador, sem poder de decisão sobre o uso dos dados;  
 ### ENCARREGADO (DPO):
 É um novo cargo previsto na lei. O encarregado (ou Data Protection Officer) é a pessoa nomeada pelo controlador para coordenar as ações de adequação interna da empresa, além de atuar como canal de comunicação com o titular e com a Autoridade Nacional de Proteção de Dados (ANPD).
+
+# CONSENTIMENTO
+
+Na LGPD, o consentimento do titular dos dados é considerado elemento essencial para o tratamento, regra excepcionada nos casos previstos no art. 11, II, da Lei.
+
+A lei traz várias garantias ao cidadão, como: poder solicitar que os seus dados pessoais sejam excluídos; revogar o consentimento; transferir dados para outro fornecedor de serviços, entre outras ações. O tratamento dos dados deve ser feito levando em conta alguns requisitos, como finalidade e necessidade, a serem previamente acertados e informados ao titular. 
+
+# QUEM FISCALIZA?
+
+Para fiscalizar e aplicar penalidades pelos descumprimentos da LGPD, o Brasil conta com a Autoridade Nacional de Proteção de Dados Pessoais, a ANPD. A instituição terá as tarefas de regular e de orientar, preventivamente, sobre como aplicar a lei. No entanto, não basta a ANPD (Lei nº 13.853/2019) e é por isso que a Lei Geral de Proteção de Dados Pessoais também prevê a existência dos agentes de tratamento de dados e estipula suas funções, nas organizações, como: o controlador, que toma as decisões sobre o tratamento; o operador, que realiza o tratamento, em nome do controlador; e o encarregado, que interage com os titulares dos dados pessoais e a autoridade nacional. 
+
+Com relação à administração de riscos e falhas, o responsável por gerir dados pessoais também deve redigir normas de governança; adotar medidas preventivas de segurança; replicar boas práticas e certificações existentes no mercado; elaborar planos de contingência; fazer auditorias; resolver incidentes com agilidade, com o aviso imediato sobre violações à ANPD e aos indivíduos afetados.
+
+As falhas de segurança podem gerar multas de até 2% do faturamento anual da organização no Brasil – limitado a R$ 50 milhões por infração. A autoridade nacional fixará níveis de penalidade segundo a gravidade da falha e enviará alertas e orientações antes de aplicar sanções às organizações.  
+
+Fonte(s): http://www.mpf.mp.br/servicos/lgpd/o-que-e-a-lgpd
+
+![Assinatura](/images/EduardoAlthaus.jpg)
