@@ -41,4 +41,4 @@ As falhas de segurança podem gerar multas de até 2% do faturamento anual da or
 
 Fonte(s): http://www.mpf.mp.br/servicos/lgpd/o-que-e-a-lgpd
 
-![Assinatura](/images/EduardoAlthaus.jpg)
+![Assinatura](/images/logo-volpato-small.png)
